@@ -1,0 +1,74 @@
+{
+  "quizs" : [
+    {
+      "name" : "General culture",
+      "questions" : [
+        {
+          "question": "What a revolutionnary and big speaker declared in 1792 : “of the audacity, still of the audacity, always of the audacity.” ?",
+          "answers": [
+            "Desmoulin",
+            "Danton",
+            "Robespierre",
+            "Saint Just"
+          ],
+          "ok": 1
+        },
+        {
+          "question": "In which country can we find mount Elbrouz ?",
+          "answers": [
+            "Russie",
+            "Azerbaïdjan",
+            "Géorgie",
+            "Iran"
+          ],
+          "ok": 0
+        },
+        {
+          "question": "Who said that “Ich bin ein Berliner” ?",
+          "answers": [
+            "Bismarck",
+            "Reagan",
+            "De Gaulle",
+            "Kennedy"
+          ],
+          "ok": 3
+        }
+      ]
+    },
+    {
+      "name" : "Technical",
+      "questions" : [
+        {
+          "question": "What is the basic science of other sciences?",
+          "answers": [
+            "Biology",
+            "Mathematics",
+            "Geography",
+            "Chemistry"
+          ],
+          "ok": 1
+        },
+        {
+          "question": "What is the unit capacity of a capacitor?",
+          "answers": [
+            "The faraday",
+            "The volt",
+            "The pascal",
+            "The hertz"
+          ],
+          "ok": 0
+        },
+        {
+          "question": "What is the formula of Ohm's law?",
+          "answers": [
+            "E = mc²",
+            "P = UI",
+            "U = RI",
+            "P = RI²"
+          ],
+          "ok": 2
+        }
+      ]
+    }
+  ]
+}
